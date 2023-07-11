@@ -25,7 +25,7 @@ class TheFunkyFox():
     def __init__(self):
         self.name = ['TheFunkyFox]
         self.country = ['Bangladesh']
-        self.language = ['English', 'Bangla']
+        self.language = ['English']
     def programming_languages(self):
         return [
             'Python', 'SQL'
